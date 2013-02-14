@@ -1,0 +1,10 @@
+[user]
+	name = John Albright
+	email = jalbright10@gmail.com
+[github]
+	user = tm258
+	token = 86f113e96b0f6d91eb8368cdc429177d
+[core]
+	editor = vim
+[merge]
+	tool = vimdiff
